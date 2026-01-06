@@ -18,3 +18,13 @@ body{
     color:aquamarine; animation: forwards; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     animation: ease-in; animation-play-state: running; 
 }
+
+/* style for reflection1_title */
+.reflection1_title{
+    color: white; font-size: 120%;
+}
+
+/* style for reflection1 */
+.reflection1{
+    color: white;
+}
