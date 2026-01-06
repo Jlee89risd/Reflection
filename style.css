@@ -1,0 +1,20 @@
+/* style for p1 */
+.p1{
+     color: white;
+}
+
+/* style for body */
+body{
+    background-color: black;
+}
+
+/* style for background */
+#title{
+    color: aqua; font-size: 150px;
+}
+
+/* style for p2 */
+.p2{
+    color:aquamarine; animation: forwards; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    animation: ease-in; animation-play-state: running; 
+}
