@@ -24,7 +24,10 @@ body{
     color: white; font-size: 120%;
 }
 
-/* style for reflection1 */
+/* style for reflection */
 .reflection1{
+    color: white;
+}
+.reflection2{
     color: white;
 }
